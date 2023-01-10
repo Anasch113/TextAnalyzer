@@ -103,7 +103,7 @@ const handleReplaceClick = () => {
 </div>
 <div className="container3" style={{backgroundColor:props.mode==='dark'?'#000b12':'white'}}>
   <h2>Preview</h2>
-  <p>{text.length>0?text:"Nothins to preview!"} </p>
+  <p>{text.length>0?text:"Nothing to preview!"} </p>
 </div>
 <div className="accordion" id="accordionExample" >
   <div className="accordion-item" style={{backgroundColor:props.mode==='dark'?'#000b12':'white',color:props.mode==='dark'?'white':'black'}}>
