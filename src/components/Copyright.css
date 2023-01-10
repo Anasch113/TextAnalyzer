@@ -4,3 +4,9 @@
    justify-content: center;
    margin-top: 15px;
 }
+.container-copy{
+   /* border: 2px solid grey;
+   background-color: grey; */
+   height: 60px;
+   width: 100%;
+}
